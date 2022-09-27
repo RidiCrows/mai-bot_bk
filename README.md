@@ -1,5 +1,7 @@
 # 个人整理后自用备份
+
 适用于windows
+
 下载zip加上cover即可运行
 
 # mai bot 使用指南
