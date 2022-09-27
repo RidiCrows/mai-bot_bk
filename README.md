@@ -1,3 +1,7 @@
+# 个人整理后自用备份
+适用于windows
+下载zip加上cover即可运行
+
 # mai bot 使用指南
 
 此 README 提供了最低程度的 mai bot 教程与支持。
